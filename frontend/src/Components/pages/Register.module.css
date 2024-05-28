@@ -1,0 +1,32 @@
+*{
+  padding: 0px;
+  margin: 0px;
+}
+
+.new-quote-form{
+  padding: 25px;
+  background-color: rgb(23, 145, 194);
+  width : 360px;
+  box-shadow: 2px 3px 4px rgba(0,0,0,0.26);
+  border-radius: 5px;
+  margin: 30px auto;
+}
+
+.new-quote-form input {
+  box-sizing: border-box;
+  margin: 9px;
+  padding: 8px;
+  width : 100%;
+}
+
+.new-quote-form button{
+  margin-top: 5px;
+  margin-left: 130px;
+  color: white;
+  background-color:rgb(255, 2, 2);
+  font-size: medium;
+  padding: 8px 15px;
+  cursor: pointer;
+  border-radius: 5px;
+  border: none;
+}
